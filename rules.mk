@@ -1,0 +1,9 @@
+MOUSEKEY_ENABLE     = no     # Mouse keys
+RGBLIGHT_ENABLE     = yes    # Enable WS2812 RGB underlight.
+VIA_ENABLE          = yes         # Enable VIA
+OLED_DRIVER_ENABLE  = yes
+LTO_ENABLE          = yes
+SPACE_CADET_ENABLE = no
+GRAVE_ESCAPE_ENABLE = no
+CONSOLE_ENABLE = no
+COMMAND_ENABLE = no
